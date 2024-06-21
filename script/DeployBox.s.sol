@@ -14,7 +14,8 @@ contract DeployBox is Script {
 
     function deployBox() public {
         BoxV1 box = new BoxV1();
-        return 
+        
+
     }
 
 }
